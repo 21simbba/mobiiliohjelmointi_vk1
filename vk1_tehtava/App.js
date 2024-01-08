@@ -59,7 +59,7 @@ const HeartRateCalculator = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'black',
+    backgroundColor: 'grey',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     fontSize: 30,
-    color: 'blue',
+    color: 'red',
     marginTop: 10,
   },
 });
